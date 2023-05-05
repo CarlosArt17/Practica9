@@ -1,4 +1,4 @@
-package org.uv.demo;
+package org.uv.practica09;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
